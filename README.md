@@ -29,8 +29,8 @@
     <br/>
     <br/>
     <div contain = 'object-fit'>
-      <img src='https://github-readme-stats.vercel.app/api?username=Donghyeon-Shin&theme=radical' />
-      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon-Shin&hide_progress=true&theme=radical' width="418"/>
+      <img src='https://github-readme-stats.vercel.app/api?username=Donghyeon-Shin&theme=radical' width="400"/>
+      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon-Shin&hide_progress=true&theme=radical' width="372"/>
     </div>
   </div>
 </div>
