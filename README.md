@@ -25,7 +25,7 @@
   <br/>
   <div>
     <h3>⚡ Stats</h3>
-    <a href="https://solved.ac/profile/sdh0321" target="_blank"><img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=sdh0321' margin="20px"/></a>
+    <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=sdh0321' margin="20px"/>
     <br/>
     <br/>
     <div contain = 'object-fit'>
